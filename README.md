@@ -1,6 +1,6 @@
 # orange_valley_caa
 
-A new Flutter project.
+Ce repo est la suite de Linkedin_Learn App contenant la racine du projet de développement d'une app de vidéo connecté
 
 ## Getting Started
 
